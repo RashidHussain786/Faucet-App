@@ -46,10 +46,10 @@ This is a simple web application built using React.js and Web3.js that allows us
 - Web3.js
 - MetaMask
 ## Screenshots
-<img src="https://github.com/RashidHussain786/Faucet-App/assets/84129308/59b35cfe-af0b-41f5-9cc1-8b2a95f6d931" alt="img1" width="500"/> <img src="https://github.com/RashidHussain786/Faucet-App/assets/84129308/ef667b62-afb2-4298-99e9-56e51133bd16" alt="img2" width="500"/>
-<img src="https://github.com/RashidHussain786/Faucet-App/assets/84129308/2f3720d6-a1c0-47e4-9872-dc1a239ae562" alt="img3" width="500"/> <img src="https://github.com/RashidHussain786/Faucet-App/assets/84129308/c2e1870f-1f6f-4f23-b40b-08140ff973c8" alt="img4" width="500"/>
-<img src="https://github.com/RashidHussain786/Faucet-App/assets/84129308/843e66d2-ae89-44fd-a75c-7e759682e3a0" alt="img5" width="500"/> <img src="https://github.com/RashidHussain786/Faucet-App/assets/84129308/04db4eee-fce5-49ab-a909-34e9cb25c569" alt="img6" width="500"/>
-<img src="https://github.com/RashidHussain786/Faucet-App/assets/84129308/354e50a4-13e9-4b7d-ba30-1563accf5578" alt="img5" width="500"/> 
+<img src="https://github.com/RashidHussain786/Faucet-App/assets/84129308/59b35cfe-af0b-41f5-9cc1-8b2a95f6d931" alt="img1" width="400"/> <img src="https://github.com/RashidHussain786/Faucet-App/assets/84129308/ef667b62-afb2-4298-99e9-56e51133bd16" alt="img2" width="400"/>
+<img src="https://github.com/RashidHussain786/Faucet-App/assets/84129308/2f3720d6-a1c0-47e4-9872-dc1a239ae562" alt="img3" width="400"/> <img src="https://github.com/RashidHussain786/Faucet-App/assets/84129308/c2e1870f-1f6f-4f23-b40b-08140ff973c8" alt="img4" width="400"/>
+<img src="https://github.com/RashidHussain786/Faucet-App/assets/84129308/843e66d2-ae89-44fd-a75c-7e759682e3a0" alt="img5" width="400"/> <img src="https://github.com/RashidHussain786/Faucet-App/assets/84129308/04db4eee-fce5-49ab-a909-34e9cb25c569" alt="img6" width="400"/>
+<img src="https://github.com/RashidHussain786/Faucet-App/assets/84129308/354e50a4-13e9-4b7d-ba30-1563accf5578" alt="img5" width="400"/> 
 
 
 
